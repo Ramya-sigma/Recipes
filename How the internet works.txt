@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Vedio is about How the internet works? How does data reachs to all mobile, laptops and other devices? 
+=======
+Video is about How the internet works? How does data reachs to all mobile, laptops and other devices? 
+>>>>>>> main
 The internal processs to achive this goal is using Satelite via an antenna from data center and the sateline sent data to mobile phone and other devices. But this may take somuch delay in getting data which is unacceptable for  most internet applications.
 To overcome this It is done with the help of optical fiber which connect between data center and our devices. (To be more specific, a data center is where in solid state device in the data center in the form of SSd which is simply a more full computer to store data.)
 Before we know how this happens we should know about an IP address.
@@ -7,6 +11,10 @@ So the server in the data center is also having an IP address but to remember th
 Many big domains used whole data centers to store information of their different websites by using host headers which are used to identify unique websites
 DNS server is the server provides different ip addresses to different websites same like our phone numbers.
 
+<<<<<<< HEAD
 enter domain name----> browser request the DNS to get corrending ip address---> browser forwards the request to the data center--> data transferred in digital format via optical fiber cables--->( There are many global companies maintain these optical fiber to transfer data in the form of light through optical fiber from data center to device overcoming somany obstacles like hill areas, water ares etc,.) ---> the roter converts light signal to electrical signal--->  to ouer laptop
+=======
+enter domain name----> browser request the DNS to get corresponding ip address---> browser forwards the request to the data center--> data transferred in digital format via optical fiber cables--->( There are many global companies maintain these optical fiber to transfer data in the form of light through optical fiber from data center to device overcoming somany obstacles like hill areas, water ares etc,.) ---> the roter converts light signal to electrical signal--->  to ouer laptop
+>>>>>>> main
 		or---> if using mobile data then the light sinal transferred to antenna and reaches us as electro magnet signals by using mobile data.
 ICANN is one of the global coorpation located in USA manages and controls many of these IP addresses.
